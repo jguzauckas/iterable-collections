@@ -7,10 +7,12 @@ var1 = ("Damario", "Zainab", "Saad", "Gage")
 print(var1) #Prints the elements in round brackets
 
 #Can use the tuple() constructor to convert other iterables, like list
-#into a tuple
+#or string into a tuple
 l = [1, 2, 3] #Sample list
 var2 = tuple(l) #Copy and covert the list to a tuple
 print(var2) #Still prints elements in round brackets
+var2 = tuple("Hello") #Takes the characters as elements
+print(var2) #Prints out the individual characters list
 
 #We can print individual elements using an index, like string
 #Remember the indices start at 0, and we use square brackets
