@@ -59,13 +59,6 @@ print(var1)
 var1.popitem() #This should remove Nigel
 print(var1)
 
-#The keyword del (short for delete) can be used to
-#delete an element or even delete the entire dict
-del var1["Saad"]
-print(var1)
-#del var1 ##This would delete the entire dict, causing
-#an error the next time you try call it
-
 #clear() allows us to empty a dict while still maintaining
 #its reference as a dict at all (unlike del)
 var1.clear()

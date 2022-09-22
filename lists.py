@@ -8,9 +8,6 @@ print(var1) #Prints the elements in square brackets
 
 #Can use the list() constructor to convert other iterables, like tuple
 #or string into a list
-var2 = list() #Can generate a blank list to add to later
-print(var2) #Just square brackets
-
 t = (1, 2, 3) #Sample tuple
 var2 = list(t) #Copy and covert the tuple to a list
 print(var2) #Still prints elements in square brackets
