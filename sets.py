@@ -62,10 +62,6 @@ print(var2)
 var2.add('p')
 print(var2)
 
-#insert() lets us choose where in the list we want the new element
-#by providing an index and shifting all other elements to the right
-print(var2)
-
 #We can also add any iterable to the end of the list using update()
 t = (1, 2, 3)
 var2.update(t)
