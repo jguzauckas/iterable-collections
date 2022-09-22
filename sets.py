@@ -30,7 +30,7 @@ for elem in var2:
     print(elem)
 
 #While we can't print individual slots, we can check for the
-#presence of certain values with the in keywordj
+#presence of certain values with the in keyword
 print('h' in var2) #Should be false, no lowercase 'h'
 print('H' in var2) #Should be true, there is uppercase 'H'
 
