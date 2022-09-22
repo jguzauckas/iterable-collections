@@ -7,3 +7,9 @@ There are four major types:
 - Tuples
 
 In this repository, there is two files for each of these types, one with notes materials and the other with practice.
+
+The recommended order to go through these files is:
+1. Tuples
+2. Lists
+3. Sets
+4. Dictionaries
