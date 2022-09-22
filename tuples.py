@@ -11,6 +11,7 @@ print(var1) #Prints the elements in round brackets
 l = [1, 2, 3] #Sample list
 var2 = tuple(l) #Copy and covert the list to a tuple
 print(var2) #Still prints elements in round brackets
+
 var2 = tuple("Hello") #Takes the characters as elements
 print(var2) #Prints out the individual characters list
 
