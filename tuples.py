@@ -13,7 +13,7 @@ var2 = tuple(l) #Copy and covert the list to a tuple
 print(var2) #Still prints elements in round brackets
 
 var2 = tuple("Hello") #Takes the characters as elements
-print(var2) #Prints out the individual characters list
+print(var2) #Prints out the individual characters tuple
 
 #We can print individual elements using an index, like string
 #Remember the indices start at 0, and we use square brackets
