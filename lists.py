@@ -56,7 +56,7 @@ t = tuple("What's up?")
 var2.extend(t)
 print(var2)
 
-#Tuples can have duplicate values, as the indices will still be unique
+#Lists can have duplicate values, as the indices will still be unique
 var3 = [5, 5, 5] #This list won't be very helpful, but demonstrates this
 print(var3)
 print(var3[2])
