@@ -13,3 +13,5 @@ The recommended order to go through these files is:
 2. Lists
 3. Sets
 4. Dictionaries
+
+Each type has a practice file with examples to work through and a practicecompleted file with the same examples completed as a sample.
