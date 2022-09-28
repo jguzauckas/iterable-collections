@@ -4,7 +4,7 @@ Dictionaries are another way to store multiple items in a single variable. They 
 
 Dictionaries are made up of `key:value` pairs, where the `key` functions as a sort of index. We use the `:` to show the pair, where the left is always the `key` and the right is always the `value`.
 
-Dictionaries are defined using square brackets `{ }`.
+Dictionaries are defined using curly brackets `{ }`.
 
 Elements in dictionaries are separated using commas `,`.
 

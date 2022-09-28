@@ -2,7 +2,7 @@
 
 Sets are another way to store multiple items in a single variable, and are our first general iterable, rather than a sequence like tuples and lists. This is our first and only basic iterable that doesn't keep a specific order of elements.
 
-Sets are defined using square brackets `{ }`.
+Sets are defined using curly brackets `{ }`.
 
 Elements in Sets are separated using commas `,`.
 
